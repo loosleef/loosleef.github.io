@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>golang on loosleef</title>
-    <link>https://loosleef.github.io/categories/golang/</link>
-    <description>Recent content in golang on loosleef</description>
+    <title>todo on loosleef</title>
+    <link>https://loosleef.github.io/tags/todo/</link>
+    <description>Recent content in todo on loosleef</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 21 Apr 2020 17:27:06 -0400</lastBuildDate>
     
-	<atom:link href="https://loosleef.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://loosleef.github.io/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
