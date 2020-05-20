@@ -1,31 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on loosleef</title>
+    <title>Categories on loosleef | Personal blog</title>
     <link>https://loosleef.github.io/categories/</link>
-    <description>Recent content in Categories on loosleef</description>
+    <description>Recent content in Categories on loosleef | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2020 17:27:06 -0400</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate>
     
 	<atom:link href="https://loosleef.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://loosleef.github.io/categories/development/</link>
-      <pubDate>Tue, 21 Apr 2020 17:27:06 -0400</pubDate>
+      <title>Cloud</title>
+      <link>https://loosleef.github.io/categories/cloud/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://loosleef.github.io/categories/development/</guid>
+      <guid>https://loosleef.github.io/categories/cloud/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>golang</title>
-      <link>https://loosleef.github.io/categories/golang/</link>
-      <pubDate>Tue, 21 Apr 2020 17:27:06 -0400</pubDate>
+      <title>DevOps</title>
+      <link>https://loosleef.github.io/categories/devops/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://loosleef.github.io/categories/golang/</guid>
+      <guid>https://loosleef.github.io/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://loosleef.github.io/categories/docker/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How-To</title>
+      <link>https://loosleef.github.io/categories/how-to/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/how-to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MSSQL</title>
+      <link>https://loosleef.github.io/categories/mssql/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/mssql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Op ed</title>
+      <link>https://loosleef.github.io/categories/op-ed/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/op-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postgres</title>
+      <link>https://loosleef.github.io/categories/postgres/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/postgres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reality</title>
+      <link>https://loosleef.github.io/categories/reality/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Fabric</title>
+      <link>https://loosleef.github.io/categories/service-fabric/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/service-fabric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://loosleef.github.io/categories/terraform/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Violin</title>
+      <link>https://loosleef.github.io/categories/violin/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/violin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WebUI</title>
+      <link>https://loosleef.github.io/categories/webui/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://loosleef.github.io/categories/webui/</guid>
       <description></description>
     </item>
     
